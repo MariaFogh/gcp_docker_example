@@ -1,6 +1,7 @@
 from sklearn import datasets, svm, metrics
 from sklearn.model_selection import train_test_split
 
+# Forked repository from Nicki Skafte
 
 if __name__ == '__main__':
     digits = datasets.load_digits()
